@@ -1,6 +1,7 @@
 #include     <stdio.h>
 
 int main() {
+
         float suma=0.0;
         float mitja=0.0;
         float nou_valor=0.0;
